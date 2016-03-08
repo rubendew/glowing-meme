@@ -1,2 +1,0 @@
-# glowing-meme
-Test repository
